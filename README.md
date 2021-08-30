@@ -8,6 +8,14 @@
   Gatsby's default starter
 </h1>
 
+**Extra Information**
+Use 'yarn' instead of 'npm' and run following commands to create a production build:
+1. ```yarn clean```
+2. ```yarn build```
+3. ```yarn serve```
+
+Your product will run production build locally at http://localhost:9000
+
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
